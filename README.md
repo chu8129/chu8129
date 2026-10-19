@@ -6,9 +6,9 @@
 #### 构建
 
 - **[Comfyui-qwself](https://github.com/chu8129/Comfyui-qwself)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - ComfyUI 生产环境工具：增加缓存并提前初始化 ultralytics，以优化生图速度。
+- **[MicroPyRpc](https://github.com/chu8129/MicroPyRpc)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 极简 RPC 服务；用于 ComfyUI 任务场景的 side service，处理频繁 import/tool 代理的情况。
 - **[RiskModel](https://github.com/chu8129/RiskModel)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 风控模型：1. 文本风控模型 2. 用户风控模型 3. AI 陪聊人物设定。
 - **[pyMicroHarness](https://github.com/chu8129/pyMicroHarness)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 轻量级harness，便于理解底层原理；支持飞书。
-- **[MicroPyRpc](https://github.com/chu8129/MicroPyRpc)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 极简 RPC 服务；用于 ComfyUI 任务场景的 side service，处理频繁 import/tool 代理的情况。
 - **[lstm-video-title-classification](https://github.com/chu8129/lstm-video-title-classification)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 基于 LSTM 的标题分类模型。
 
 #### 贡献于
