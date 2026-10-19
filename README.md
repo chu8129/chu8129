@@ -11,7 +11,7 @@
 - **[RiskModel](https://github.com/chu8129/RiskModel)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 风控模型：1. 文本风控模型 2. 用户风控模型 3. AI 陪聊人物设定
 - **[pyMicroHarness](https://github.com/chu8129/pyMicroHarness)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/chu8129/pyMicroHarness?style=flat-square&color=yellow&logo=github) - 轻量级harness，便于理解底层原理；支持飞书
 - **[lstm-video-title-classification](https://github.com/chu8129/lstm-video-title-classification)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 基于 LSTM 的标题分类模型
-- **[ML](https://github.com/chu8129/ML)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/chu8129/ML?style=flat-square&color=yellow&logo=github) - 从零手写经典机器学习算法（KMeans、Logistic、Bayes、GBDT+LR、KKT 等），用于理解算法底层原理
+- **[ML](https://github.com/chu8129/ML)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/chu8129/ML?style=flat-square&color=yellow&logo=github) - 从零手写，用于理解算法底层原理
 
 #### Contributing to
 
