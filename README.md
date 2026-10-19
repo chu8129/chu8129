@@ -19,6 +19,6 @@
   - 修复 `checkpoints_loaded` 中 `model.load_state_dict` 多模型缓存切换异常的问题（[#13535](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/13535)）
   - 修复 `orderdict` LRU 缓存排序问题（[#13313](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/13313)）
 
-#### 备份
+#### Backup
 
 - **[kcptun 版本快照](https://github.com/chu8129/kcptun.v0.0.0.20260208051026.39935d5307f0)** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) - 上游 `xtaci/kcptun` 的归档版本快照/删库 [xtaci/kcptun](https://github.com/xtaci/kcptun)
