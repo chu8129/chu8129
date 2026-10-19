@@ -21,4 +21,4 @@
 
 #### Backup
 
-- **[kcptun 版本快照](https://github.com/chu8129/kcptun.v0.0.0.20260208051026.39935d5307f0)** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) - 上游 `xtaci/kcptun` 的归档版本快照/删库 [xtaci/kcptun](https://github.com/xtaci/kcptun)
+- **[kcptun 版本快照](https://github.com/chu8129/kcptun.v0.0.0.20260208051026.39935d5307f0)** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) - 上游 `xtaci/kcptun` 的归档版本快照/学习用，[xtaci/kcptun](https://github.com/xtaci/kcptun)已删库
