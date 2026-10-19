@@ -5,11 +5,11 @@
 
 #### Building
 
+- **[pyMicroHarness](https://github.com/chu8129/pyMicroHarness)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/chu8129/pyMicroHarness?style=flat-square&color=yellow&logo=github) - 轻量级harness，便于理解底层原理；支持飞书
 - **[Comfyui-qwself](https://github.com/chu8129/Comfyui-qwself)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - ComfyUI 生产环境工具：增加缓存并提前初始化 ultralytics，以优化生图速度
 - **[MicroPyRpc](https://github.com/chu8129/MicroPyRpc)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 极简 RPC 服务；用于 ComfyUI 任务场景的 side service，处理频繁 import/tool 代理的情况
 - **[ZTScore](https://github.com/chu8129/ZTScore)** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Stars](https://img.shields.io/github/stars/chu8129/ZTScore?style=flat-square&color=yellow&logo=github) - 基于 PCM 音频信号处理与 DTW 动态时间规整的卡拉 OK 演唱评分，输出节奏分与情感分
 - **[RiskModel](https://github.com/chu8129/RiskModel)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 风控模型：1. 文本风控模型 2. 用户风控模型 3. AI 陪聊人物设定
-- **[pyMicroHarness](https://github.com/chu8129/pyMicroHarness)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/chu8129/pyMicroHarness?style=flat-square&color=yellow&logo=github) - 轻量级harness，便于理解底层原理；支持飞书
 - **[lstm-video-title-classification](https://github.com/chu8129/lstm-video-title-classification)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - 基于 LSTM 的标题分类模型
 - **[ML](https://github.com/chu8129/ML)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/chu8129/ML?style=flat-square&color=yellow&logo=github) - 从零手写，用于理解算法底层原理
 
